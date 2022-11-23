@@ -41,8 +41,7 @@ jobs:
       
       - name: Install R packages
         uses: r-lib/actions/setup-renv@v2
-        with: 
-          cache-version:1
+        
       # Publish:
       - name: Publish to GitHub Pages (and render)
         uses: quarto-dev/quarto-actions/publish@v2
