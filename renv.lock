@@ -52,6 +52,14 @@
         "rlang"
       ]
     },
+    "data.table": {
+      "Package": "data.table",
+      "Version": "1.14.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "aecef50008ea7b57c76f1cb5c127fb02",
+      "Requirements": []
+    },
     "digest": {
       "Package": "digest",
       "Version": "0.6.30",
@@ -211,10 +219,10 @@
     },
     "sass": {
       "Package": "sass",
-      "Version": "0.4.2",
+      "Version": "0.4.3",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "1b191143d7d3444d504277843f3a95fe",
+      "Hash": "6cd2448458fdb03e21e69aa2d5ba25b2",
       "Requirements": [
         "R6",
         "fs",
